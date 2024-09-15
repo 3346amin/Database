@@ -1,1 +1,4 @@
+# course rules
+
+
 # resources
